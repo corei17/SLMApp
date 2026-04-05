@@ -41,3 +41,9 @@ app-example
 # generated native folders
 /ios
 /android
+
+
+# AI Model files - too large for GitHub
+assets/models/*.gguf
+assets/models/*.bin
+assets/models/*.ggmlv3

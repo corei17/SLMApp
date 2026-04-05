@@ -38,7 +38,8 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "llama.rn"
     ],
     "experiments": {
       "typedRoutes": true,
